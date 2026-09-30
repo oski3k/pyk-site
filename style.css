@@ -50,3 +50,6 @@ th, td { text-align: left; vertical-align: top; padding: 8px 6px; border-bottom:
 .table-wrap { overflow-x: auto; }
 
 nav { margin-top: 2em; font-size: 0.9rem; color: var(--muted); }
+
+.lang { margin: 0 0 12px; text-align: right; font-size: 0.9rem; color: var(--muted); }
+h3 { font-size: 1.05rem; margin-top: 1.5em; }
